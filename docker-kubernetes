@@ -1,1 +1,3 @@
-docker
+Docker is an open-source platform that uses operating system-level virtualization to deliver software in packages
+called containers. It enables developers to separate their applications from their infrastructure, allowing for faster software delivery and consistent 
+performance across different environments—solving the common "it works on my machine" problem.
